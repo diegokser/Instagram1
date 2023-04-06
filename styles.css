@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+    width:100%;
+    font-family: 'Roboto', sans-serif;
+}
+.post{
+    justify-content: center;
+    background-color: white;
+    width:50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+}
+.cabecera{
+    margin-left: 25px;
+    padding-top: 10px;
+    display:flex;
+}
+#logohtml5 {
+    margin-top: 15px;
+}
+.escritohtml {
+    margin-left: 10px;
+}
+#trespuntos {
+    margin-left: 500px;
+    margin-top: 15px;
+}
+
+#fotoislandia{
+width: 100%;
+margin-bottom: 15px;
+}
+.cuerpo {
+    margin-left: 25px;
+    margin-bottom: 15px;
+}
+.iconos{
+    display:flex;
+}
+
+#coment{
+    margin-left:10px;
+    margin-right:10px;
+
+}
+#guardar{
+    margin-left:480px;
+}
+
+#descripcion1{
+    padding: 0px 20px 20px 0px;
+    text-align: justify;
+}
